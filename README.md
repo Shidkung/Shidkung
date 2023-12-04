@@ -45,10 +45,3 @@ student of Enigineering Program in Computer Engineering
 
 ### Badges
 
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/Shidkung"><img src="https://github-readme-stats.vercel.app/api?username=Shidkung&show_icons=true&hide=&title_color=ffffff&text_color=ffffff&icon_color=ef4444&bg_color=1e3a8a&hide_border=true&show_icons=true" alt="Shidkung's GitHub stats" /></a>
-
-<a href="http://www.github.com/Shidkung"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Shidkung&bg_color=1e3a8a&color=ffffff&line=ef4444&point=ffffff&area_color=1e3a8a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
-<a href="https://github.com/Shidkung" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shidkung&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=ef4444&bg_color=1e3a8a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
