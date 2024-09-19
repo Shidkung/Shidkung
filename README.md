@@ -6,7 +6,7 @@ student of Enigineering Program in Computer Engineering
 
 * 🌍  I'm based in Bangkok
 * ✉️  You can contact me at [pitpibul2003@gmail.com](mailto:pitpibul2003@gmail.com)
-* 🧠  I'm learning VHDL 
+* 🧠  I'm learning VHDL ,Vivado and Vitis 2023
 
 ### Skills
 
@@ -43,5 +43,12 @@ student of Enigineering Program in Computer Engineering
 
 <p align="left"> <a href="https://www.github.com/Shidkung" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/kk__kid" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/pitpibul-phongphotjanatham-236a6822b" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
+### Badges
 
+<b>My GitHub Stats</b>
 
+<a href="http://www.github.com/Shidkung"><img src="https://github-readme-stats.vercel.app/api?username=Shidkung&show_icons=true&hide=&title_color=ffffff&text_color=ffffff&icon_color=ef4444&bg_color=1e3a8a&hide_border=true&show_icons=true" alt="Shidkung's GitHub stats" /></a>
+
+<a href="http://www.github.com/Shidkung"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Shidkung&bg_color=1e3a8a&color=ffffff&line=ef4444&point=ffffff&area_color=1e3a8a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
+<a href="https://github.com/Shidkung" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shidkung&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=ef4444&bg_color=1e3a8a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
