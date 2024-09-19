@@ -6,7 +6,7 @@ student of Enigineering Program in Computer Engineering
 
 * 🌍  I'm based in Bangkok
 * ✉️  You can contact me at [pitpibul2003@gmail.com](mailto:pitpibul2003@gmail.com)
-* 🧠  I'm learning Ros , Dart(for flutter) , Angular
+* 🧠  I'm learning VHDL 
 
 ### Skills
 
